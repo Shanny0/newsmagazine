@@ -1,0 +1,21 @@
+.bnr_cont{
+    margin-top: 50px;
+    width: 100vw;
+    height: 180px;
+    background-color: #39d69f;
+    border-radius: 10px;
+    color:white;
+   justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0 5%;
+
+    .title{
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    .subtitle{
+        width: 80%;
+    }
+}
