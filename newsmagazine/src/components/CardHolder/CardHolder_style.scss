@@ -1,0 +1,39 @@
+.cont_cdhold{
+
+    .row > .col{
+       
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    
+}
+.card_holder{
+    margin-bottom: 40px;
+    
+  
+    width: 305px;
+    height: auto;
+    
+    .img{
+        
+        img{
+            border-radius: 5px;
+            width:305px;
+            height: 183px;
+        }
+    }
+    .tag{
+        display: inline-block;
+        text-align: center;
+        width: 70px;
+        margin-top: 15px;
+        border-radius: 50px;
+        background-color: #39d69f;
+        color:white;
+    }
+    .details{
+        margin-top: 10px;
+    }
+}
