@@ -1,0 +1,38 @@
+.cont_cdhold .row > .col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.card_holder {
+  margin-bottom: 40px;
+  width: 305px;
+  height: auto;
+}
+
+.card_holder .img img {
+  border-radius: 5px;
+  width: 305px;
+  height: 183px;
+}
+
+.card_holder .tag {
+  display: inline-block;
+  text-align: center;
+  width: 70px;
+  margin-top: 15px;
+  border-radius: 50px;
+  background-color: #39d69f;
+  color: white;
+}
+
+.card_holder .details {
+  margin-top: 10px;
+}
+/*# sourceMappingURL=CardHolder_style.css.map */

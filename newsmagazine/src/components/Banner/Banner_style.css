@@ -1,0 +1,29 @@
+.bnr_cont {
+  margin-top: 50px;
+  width: 100vw;
+  height: 180px;
+  background-color: #39d69f;
+  border-radius: 10px;
+  color: white;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 0 5%;
+}
+
+.bnr_cont .title {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.bnr_cont .subtitle {
+  width: 80%;
+}
+/*# sourceMappingURL=Banner_style.css.map */
