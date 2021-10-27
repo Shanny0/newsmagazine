@@ -23,7 +23,7 @@ export default App;
 
 
 /*
-GET https://newsapi.org/v2/everything?q=Apple&from=2021-10-23&sortBy=popularity&apiKey=API_KEY
+GET https://newsapi.org/v2/everything?q=Apple&from=2021-10-23&sortBy=popularity&apiKey=
 602e440998c64b46b70a5c06593ffb8e
 
 
